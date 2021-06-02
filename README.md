@@ -1,4 +1,4 @@
 # GitTest
-Learning Git Commands
+TESTING git possibilities 
 
 This is my first Public git experiance
